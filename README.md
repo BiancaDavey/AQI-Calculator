@@ -1,6 +1,6 @@
-# air-quality
+# AQI Calculator
 
-air-quality is a program for providing Air Quality Index (AQI) readings.
+AQI Calculator is a program for providing Air Quality Index (AQI) readings calculated from user input of ozone, sulfur dioxide and particle values.
 
 ## Features
 
