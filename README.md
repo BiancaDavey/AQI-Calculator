@@ -50,4 +50,4 @@ AQI is 12.5
 
 Bianca Davey 
 
-biancamdavey@icloud.com
+biancamdavey91@gmail.com
